@@ -19,12 +19,13 @@ body {
   text-align: center;
 }
 .well {
-
+  background-color: gainsboro;
 }
 
 .panel-info > .panel-heading {
   background-color: mediumpurple;
   color: indigo;
+  border-bottom-color: indigo;
 }
 
 .portfolio-object {
@@ -62,6 +63,12 @@ h3.panel-title {
     margin-bottom: 10px;
     font-weight: bold;
     margin-left: 410px;
+}
+
+.emphasis {
+  text-decoration: underline;
+  text-decoration-style: double;
+  color: darkslategray;
 }
 
 .interests h4 {
