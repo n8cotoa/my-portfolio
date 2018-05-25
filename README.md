@@ -10,7 +10,7 @@ _{A webpage showcasing my code projects. It includes a project section and an ab
 
 ## Setup/Installation Requirements
 
-*
+* https://n8cotoa.github.io/my-portfolio/
 
 ## Known Bugs
 
