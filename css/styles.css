@@ -16,10 +16,33 @@ h3.panel-title {
   font-weight: bold;
 }
 
+.background {
+  height: 450px;
+}
+
+.background img {
+  width: 50%;
+  float: left;
+}
+
 @media(max-width: 993px) {
 
 .portfolio-object {
   text-align: center;
+}
+
+
+}
+
+@media(max-width: 515px) {
+
+  .background {
+    height: 625px;
+  }
+
+.background img {
+  width: 200px;
+  margin-right: 25px;
 }
 
 
