@@ -6,3 +6,16 @@
   width: 95%;
   padding: 10px;
 }
+
+h3.panel-title {
+  text-align: center;
+}
+
+@media(max-width: 993px) {
+
+.portfolio-object {
+  text-align: center;
+}
+
+
+}
