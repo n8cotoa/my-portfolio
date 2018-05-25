@@ -1,6 +1,7 @@
 h2 {
   font-size: 3em;
   font-weight: bold;
+  margin-bottom: 20px;
 }
 h3 {
   font-size: 2em;
@@ -57,7 +58,7 @@ h3.panel-title {
 .education li {
     margin-bottom: 10px;
     font-weight: bold;
-    margin-left: 425px;
+    margin-left: 410px;
 }
 
 
