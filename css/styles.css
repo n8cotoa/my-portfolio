@@ -66,11 +66,21 @@ h3.panel-title {
 
 .interests h4 {
   text-align: center;
+  margin: auto;
+  margin-bottom: 10px;
+  font-weight: bold;
 }
 
 .interests img {
   width:95%;
-  
+  margin: auto;
+  display: block;
+  text-align: center;
+
+}
+
+.interests p {
+  margin: 5px;
 }
 
 @media(max-width: 993px) {
